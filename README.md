@@ -1,8 +1,8 @@
 
 <div align="center">
   
-  ### Hi there 👋, I'm Adarsh Saxena  
-  <hr width="50%">  
+  <h2>Hi there 👋, I'm Adarsh Saxena</h2>  
+  <hr width="80%">  
   A passionate full-stack developer from India  
 
 </div>
