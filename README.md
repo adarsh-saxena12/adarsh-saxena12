@@ -1,8 +1,11 @@
-### Hi there 👋, I'm Adarsh Saxena  
 
----
+<div align="center">
+  
+  ### Hi there 👋, I'm Adarsh Saxena  
+  <hr width="50%">  
+  A passionate full-stack developer from India  
 
-A passionate full-stack developer from India  
+</div>
 <!--
 **adarsh-saxena12/adarsh-saxena12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
